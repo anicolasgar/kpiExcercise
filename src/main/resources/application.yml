@@ -1,0 +1,9 @@
+server:
+  port: 8092
+
+#Logging
+logging:
+  level:
+    org.springframework.security.web: INFO
+  file: ./application.log
+  
