@@ -7,6 +7,10 @@ public class Sale {
     Double amount;
     Long ts;
 
+    public Sale(Double amount, Long ts) {
+        this.amount = amount;
+        this.ts = ts;
+    }
 
     public Double getAmount() {
         return amount;
