@@ -1,0 +1,16 @@
+target/
+*.iws
+*.ipr
+./.project
+.settings/
+stacktrace.log
+.project
+.idea
+*.iml
+webserver/cobertura.ser
+*.sublime*
+webserver/.classpath
+webserver/target-eclipse/
+webserver/bin/
+*.DS_Store
+/out/
